@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App1.screen_login">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label HorizontalOptions="Start" VerticalOptions="Center" Text="UserName" Grid.Column="0" Grid.Row="0"/>
+            <Label HorizontalOptions="Start" VerticalOptions="Center" Text="PassWord" Grid.Column="0" Grid.Row="1"/>
+            <Entry Placeholder="UserName" x:Name="name" Grid.Row="0" Grid.Column="1"/>
+            <Entry Placeholder="PassWord" x:Name="pass" Grid.Row="1" Grid.Column="1" IsPassword="True"/>
+            <Button Text="login" Clicked="Button_Clicked" HorizontalOptions="CenterAndExpand"  Grid.Row="2" Grid.ColumnSpan="2"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

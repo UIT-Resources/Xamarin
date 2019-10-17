@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App1.screen_absolutelayout">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <BoxView Color="Pink"
+                 AbsoluteLayout.LayoutBounds="0.5,15,100,100"
+                 AbsoluteLayout.LayoutFlags="XProportional"/>
+            <BoxView Color="Gray"
+                 AbsoluteLayout.LayoutBounds="0.1,60,100,100"
+                 AbsoluteLayout.LayoutFlags="XProportional"/>
+            <Button Text="về trang chủ" Clicked="Button_Clicked" 
+                    AbsoluteLayout.LayoutBounds="100,200,100,100"/>
+        </AbsoluteLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

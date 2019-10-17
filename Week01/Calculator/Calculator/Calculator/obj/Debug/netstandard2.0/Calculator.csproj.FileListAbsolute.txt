@@ -1,0 +1,13 @@
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+E:\Year4_Term1\Multi-platform programming\exercise\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
