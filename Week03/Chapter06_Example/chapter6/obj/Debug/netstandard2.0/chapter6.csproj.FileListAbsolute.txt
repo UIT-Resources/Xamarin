@@ -1,0 +1,34 @@
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.deps.json
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/ref/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/bin/Debug/netstandard2.0/chapter6.pdb
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.csprojAssemblyReference.cache
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewDataModel.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.AssemblyInfoInputs.cache
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.AssemblyInfo.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ref/chapter6.dll
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/chapter6.pdb
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewButton.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewCustom.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewContextAction.xaml.g.cs
+/Users/khoadang/Documents/chapter6/chapter6/obj/Debug/netstandard2.0/ListViewGrouped.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\bin\Debug\netstandard2.0\chapter6.deps.json
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\bin\Debug\netstandard2.0\chapter6.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\bin\Debug\netstandard2.0\ref\chapter6.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\bin\Debug\netstandard2.0\chapter6.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\chapter6.csprojAssemblyReference.cache
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ListViewButton.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ListViewContextAction.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ListViewCustom.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ListViewDataModel.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ListViewGrouped.xaml.g.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\chapter6.AssemblyInfoInputs.cache
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\chapter6.AssemblyInfo.cs
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\XamlC.stamp
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\chapter6.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\ref\chapter6.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week03\Chapter06_Example\chapter6\obj\Debug\netstandard2.0\chapter6.pdb

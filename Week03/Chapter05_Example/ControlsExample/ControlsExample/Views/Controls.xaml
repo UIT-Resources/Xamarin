@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ControlsExample.Views.Controls">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+            <Label x:Name="EventValue" Text="Value in Event"/>
+            <Label x:Name="PageValue" Text="Value in Page"/>
+            <!--Picker Example-->
+            <Picker x:Name="ThePicker" Title="Options" SelectedIndexChanged="PickerSelectedIndexChanged">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>First</x:String>
+                        <x:String>Second</x:String>
+                        <x:String>Third</x:String>
+                        <x:String>Fourth</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!--DatePicker Example-->
+            <DatePicker x:Name="TheDatePicker" VerticalOptions="CenterAndExpand" DateSelected="DatePickerDateSelected">
+                <DatePicker.Format>MM-dd-yyyy</DatePicker.Format>
+                <!--<DatePicker.MinimumDate>
+                    <sys:DateTime x:FactoryMethod="Parse">
+                        <x:Arguments>
+                            <x:String>Jan 1 2018</x:String>
+                        </x:Arguments>
+                    </sys:DateTime>
+                </DatePicker.MinimumDate>
+                <DatePicker.MaximumDate>
+                    <sys:DateTime x:FactoryMethod="Parse">
+                        <x:Arguments>
+                            <x:String>Dec 31 2025</x:String>
+                        </x:Arguments>
+                    </sys:DateTime>
+                </DatePicker.MaximumDate>-->
+            </DatePicker>
+            <!--TimePicker Example-->
+            <!--<TimePicker x:Name="TheTimePicker" Format="T" VerticalOptions="CenterAndExpand" PropertyChanged="TimePickerPropertyChanged"></TimePicker>-->
+            <!--Stepper Example-->
+            <Stepper x:Name="TheStepper" Minimum="0" Maximum="10" Increment="1" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" ValueChanged="StepperValueChanged"></Stepper>
+            <!--Slider Example-->
+            <Slider x:Name="TheSlider" Minimum="0" Maximum="100" Value="50" VerticalOptions="CenterAndExpand" ValueChanged="SliderValueChanged" WidthRequest="300"></Slider>
+            <!--Switch Example-->
+            <Switch x:Name="TheSwitch" HorizontalOptions="Center" VerticalOptions= "CenterAndExpand" Toggled="SwitchToggled"></Switch>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
