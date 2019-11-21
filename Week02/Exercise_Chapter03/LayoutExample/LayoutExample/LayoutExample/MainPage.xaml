@@ -7,10 +7,21 @@
              x:Class="LayoutExample.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <TableView>
+            <TableRoot>
+                <TableSection Title="UI Design Using Layouts">
+                    <TextCell Text="StackLayoutHorizontal" Tapped="NavigateToPage" CommandParameter="StackLayoutHorizontal"/>
+                    <TextCell Text="StackLayoutVertical" Tapped="NavigateToPage" CommandParameter="StackLayoutVertical"/>
+                    <TextCell Text="FlexLayoutColumn" Tapped="NavigateToPage" CommandParameter="FlexLayoutColumn"/>
+                    <TextCell Text="FlexLayoutRow" Tapped="NavigateToPage" CommandParameter="FlexLayoutRow"/>
+                    <TextCell Text="GridLayout" Tapped="NavigateToPage" CommandParameter="GridLayout"/>
+                    <TextCell Text="RelativeLayout" Tapped="NavigateToPage" CommandParameter="RelativeLayout"/>
+                    <TextCell Text="AbsoluteLayout" Tapped="NavigateToPage" CommandParameter="AbsoluteLayout"/>
+                    <TextCell Text="ContentViewExample" Tapped="NavigateToPage" CommandParameter="ContentViewExample"/>
+                    <TextCell Text="Frame" Tapped="NavigateToPage" CommandParameter="Frame"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
     </StackLayout>
 
 </ContentPage>

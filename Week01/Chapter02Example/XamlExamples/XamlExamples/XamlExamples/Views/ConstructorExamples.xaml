@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamlExamples.Views.ConstructorExamples">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--Defaut Constructor-->
+            <DatePicker/>
+            <!--Non-Default Constructor-->
+            <BoxView>
+                <BoxView.Color>
+                    <Color>
+                        <x:Arguments>
+                            <x:Double>0.25</x:Double>
+                            <x:Double>0.75</x:Double>
+                            <x:Double>0.2</x:Double>
+                            <x:Double>0.9</x:Double>
+                        </x:Arguments>
+                    </Color>
+                </BoxView.Color>
+            </BoxView>
+            <!--Using Factory Method to Constructing Object--><!--
+            <BoxView>
+                <BoxView.Color>
+                    <Color x:FactoryMethod="FromHex">
+                        <x:Arguments>
+                            <x:String>#02dd52</x:String>
+                        </x:Arguments>
+                    </Color>
+                </BoxView.Color>
+            </BoxView>-->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

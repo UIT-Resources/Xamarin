@@ -7,5 +7,5 @@ Github : https://github.com/UIT-Resources/Xamarin
       (Team's members : Doãn Ngọc Tài - 16521787 ; Nguyễn Tuấn Dương - 16521656 ; Bùi Đăng Khoa - 16521700)
     
     - Week01,02,...n Folder : Contains the exercises.
-      + ChapterN_Excercise Folder : Contains the exercises in each equivalent chapter of the book.
-      + MrTanTeacher_Exercise Folder : Contains the exercises of the Mr. Tân Teacher.
+      + ChapterN_Example Folder : Contains the exercises in each equivalent chapter of the book.
+      + Assignments Folder : Contains the exercises of the Mr. Tân Teacher.

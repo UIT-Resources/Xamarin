@@ -1,0 +1,126 @@
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/FlowerOnline.iOS.exe
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/FlowerOnline.iOS.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/FlowerOnline.dll
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/bin/iPhoneSimulator/Debug/FlowerOnline.pdb
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/actool/_PartialAppManifest.items
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/actool/_BundleResourceWithLogicalName.items
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/coremlc/_PartialAppManifest.items
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.5-13.1/optimized/
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/FlowerOnline.iOS.csprojAssemblyReference.cache
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/FlowerOnline.iOS.csproj.CopyComplete
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/FlowerOnline.iOS.exe
+/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline.iOS/obj/iPhoneSimulator/Debug/FlowerOnline.iOS.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\FlowerOnline.iOS.exe
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\FlowerOnline.iOS.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\FlowerOnline.dll
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\bin\iPhoneSimulator\Debug\FlowerOnline.pdb
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\FlowerOnline.iOS.csprojAssemblyReference.cache
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\FlowerOnline.iOS.csproj.CopyComplete
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\FlowerOnline.iOS.exe
+E:\01_UIT\04_Fourth Year\Xamarin\TH\Week04\Assignments\FlowerOnline-master\FlowerOnline.iOS\obj\iPhoneSimulator\Debug\FlowerOnline.iOS.pdb

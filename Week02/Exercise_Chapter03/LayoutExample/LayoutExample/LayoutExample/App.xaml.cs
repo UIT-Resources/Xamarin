@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using LayoutExample.LayoutExample;
+using LayoutExample.Views;
 
 namespace LayoutExample
 {
@@ -11,7 +11,7 @@ namespace LayoutExample
         {
             InitializeComponent();
 
-            MainPage = new StackLayoutHorizontal();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

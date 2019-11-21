@@ -17,5 +17,12 @@ namespace LayoutExample
         {
             InitializeComponent();
         }
+        protected async void NavigateToPage(object sender, EventArgs args)
+        {
+            string type = (string)((TextCell)sender).CommandParameter;
+            Type pageType = Type.GetType("LayoutExample.Views." + type);
+            Page page = (Page)Activator.CreateInstance(pageType);
+            await this.Navigation.PushAsync(page);
+        }
     }
 }

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="FormsExample.ContentPageExample"
+             Title="ContentPageExample">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="10, 20, 10, 5"/>
+            <On Platform="Android" Value="10, 20, 10, 5"/>
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <ContentPage.Content>
+        <ScrollView VerticalOptions="FillAndExpand">
+            <StackLayout HeightRequest="1500" >
+                <Label Text="Label" FontSize="40" HorizontalOptions="Center"/>
+                <Label FontSize="20" HorizontalOptions="CenterAndExpand">
+                    <Label.Text>
+                        This control is great for
+                        displaying one or more 
+                        lines of text.
+                    </Label.Text>
+                    <Label.FontFamily>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <On Platform="Android">Droid Sans Mono</On>
+                            <On Platform="iOS">Courier</On>
+                        </OnPlatform>
+                    </Label.FontFamily>
+                </Label>
+                <Button BorderColor="Red" BorderWidth="10" Text="Make It So" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Fill" Clicked="OnButtonClicked"/>
+                <Entry Placeholder="Username" VerticalOptions="Center" Keyboard="Text"/>
+                <BoxView Color="Silver" WidthRequest="150" HeightRequest="150" HorizontalOptions="StartAndExpand" VerticalOptions="Fill"/>
+                <Image Source="uit.png" Aspect="AspectFit" HorizontalOptions="End" VerticalOptions="Fill">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="ImageTapped"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

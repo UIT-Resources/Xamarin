@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamlExamples.Views.PropertyValuesExample">
+    <ContentPage.Content>
+        <StackLayout Padding="30,30">
+            <!--Property Element Syntax-->
+            <Label>
+                <Label.Text>Property Element Syntax</Label.Text>
+            </Label>
+            <!--Content Property Syntax-->
+            <Label>Content Property Syntax</Label>
+            <!--Property Attribute Syntax-->
+            <Label Text="Property Attribute Syntax"/>
+            <!--Enumeration Values Syntax-->
+            <Button FontSize="Medium" Text="Medium Size Button"/>
+            <Button FontAttributes="Italic,Bold" Text="Italic Bold Button" />
+            <!--Event handler Systax-->
+            <Button Text="Make It So" Clicked="ButtonClicked" />
+            <!--Attached Value Syntax-->
+            <Grid>
+                <Label Grid.Row="1" Grid.Column="1" Text="Cell (1,1)" />
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

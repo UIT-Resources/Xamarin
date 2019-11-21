@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5E90865B-F2F1-4F9D-A147-C3FBCB168C35}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlowerOnline.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.8UEDU17C06001017" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlowerOnline/ViewModel/TypeFlowerViewModel.cs">
+    <Files>
+      <File FileName="FlowerOnline/ViewModel.cs" Line="58" Column="37" />
+      <File FileName="FlowerOnline/Models/TypeFlower.cs" Line="12" Column="1" />
+      <File FileName="FlowerOnline/MyPage.xaml" Line="39" Column="55" />
+      <File FileName="FlowerOnline/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="FlowerOnline.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="FlowerOnline/App.xaml" Line="10" Column="15" />
+      <File FileName="FlowerOnline/App.xaml.cs" Line="17" Column="2" />
+      <File FileName="FlowerOnline/MainPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="FlowerOnline/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="FlowerOnline/MyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FlowerOnline/Repository/TypeFlowerRepository.cs" Line="18" Column="29" />
+      <File FileName="FlowerOnline/Helpers/Database.cs" Line="89" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlowerOnline" expanded="True" selected="True">
+            <Node name="FlowerOnline.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FlowerOnline.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F7BE5363-7E9C-423F-8CAA-CEF8C39495B2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/khoadang/Desktop/Ky1/App/FlowerOnline/FlowerOnline/FlowerOnline.csproj" relfile="FlowerOnline/FlowerOnline.csproj" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XamlExamples.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Menu">
+                <TableRoot>
+                    <TableSection Title="Chapter 02 - Examples">
+                        <TextCell Text="StaticExample" Tapped="navigateToPage" CommandParameter="StaticExample"/>
+                        <TextCell Text="ArrayExample" Tapped="navigateToPage" CommandParameter="ArrayExample"/>
+                        <TextCell Text="ReferenceExample" Tapped="navigateToPage" CommandParameter="ReferenceExample"/>
+                        <TextCell Text="ConstructorExample" Tapped="navigateToPage" CommandParameter="ConstructorExamples"/>
+                        <TextCell Text="PropertyValuesExample" Tapped="navigateToPage" CommandParameter="PropertyValuesExample"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
